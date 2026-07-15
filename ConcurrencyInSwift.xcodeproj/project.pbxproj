@@ -1,0 +1,1739 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		48613C502D37619B0044E8E4 /* Atomics in Frameworks */ = {isa = PBXBuildFile; productRef = 48613C4F2D37619B0044E8E4 /* Atomics */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		48613C2D2D375AAE0044E8E4 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		CE0000000000000000000001 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		CE000000000000000000000A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		CE0000000000000000000013 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		CE000000000000000000001C /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		CE0000000000000000000025 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		CE000000000000000000002E /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		CE0000000000000000000037 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		CE0000000000000000000040 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		CE0000000000000000000049 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		CE0000000000000000000052 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		CE000000000000000000005B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		CE0000000000000000000064 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		CE000000000000000000006D /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		CE0000000000000000000076 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		CE000000000000000000007F /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		CE0000000000000000000088 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		48613C2F2D375AAE0044E8E4 /* 00_OriginalSamples */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 00_OriginalSamples; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE0000000000000000000002 /* 01_LegacyThreading */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 01_LegacyThreading; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE000000000000000000000B /* 02_TaskBasics */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 02_TaskBasics; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE0000000000000000000014 /* 03_AsyncLet */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 03_AsyncLet; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE000000000000000000001D /* 04_TaskGroups */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 04_TaskGroups; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE0000000000000000000026 /* 05_Cancellation */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 05_Cancellation; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE000000000000000000002F /* 06_Actors */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 06_Actors; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE0000000000000000000038 /* 07_ActorReentrancy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 07_ActorReentrancy; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE0000000000000000000041 /* 08_GlobalActors */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 08_GlobalActors; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE000000000000000000004A /* 09_TaskInheritance */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 09_TaskInheritance; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE0000000000000000000053 /* 10_TaskScheduling_Swift5 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 10_TaskScheduling_Swift5; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE000000000000000000005C /* 10_TaskScheduling_Swift6 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 10_TaskScheduling_Swift6; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE0000000000000000000065 /* 11_Nonisolated_Legacy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 11_Nonisolated_Legacy; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE000000000000000000006E /* 11_Nonisolated_Modern */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 11_Nonisolated_Modern; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE0000000000000000000077 /* 12_Sendable_Swift5 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 12_Sendable_Swift5; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE0000000000000000000080 /* 12_Sendable_Swift6 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 12_Sendable_Swift6; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE0000000000000000000089 /* 13_ActorCapture_iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 13_ActorCapture_iOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		48613C312D375AAE0044E8E4 /* OriginalSamples */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = OriginalSamples;
+			sourceTree = "<group>";
+		};
+		CE0000000000000000000003 /* Examples/01-LegacyThreading */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Examples/01-LegacyThreading";
+			sourceTree = "<group>";
+		};
+		CE000000000000000000000C /* Examples/02-TaskBasics */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Examples/02-TaskBasics";
+			sourceTree = "<group>";
+		};
+		CE0000000000000000000015 /* Examples/03-AsyncLet */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Examples/03-AsyncLet";
+			sourceTree = "<group>";
+		};
+		CE000000000000000000001E /* Examples/04-TaskGroups */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Examples/04-TaskGroups";
+			sourceTree = "<group>";
+		};
+		CE0000000000000000000027 /* Examples/05-Cancellation */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Examples/05-Cancellation";
+			sourceTree = "<group>";
+		};
+		CE0000000000000000000030 /* Examples/06-Actors */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Examples/06-Actors";
+			sourceTree = "<group>";
+		};
+		CE0000000000000000000039 /* Examples/07-ActorReentrancy */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Examples/07-ActorReentrancy";
+			sourceTree = "<group>";
+		};
+		CE0000000000000000000042 /* Examples/08-GlobalActors */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Examples/08-GlobalActors";
+			sourceTree = "<group>";
+		};
+		CE000000000000000000004B /* Examples/09-TaskInheritance */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Examples/09-TaskInheritance";
+			sourceTree = "<group>";
+		};
+		CE0000000000000000000054 /* Examples/10-Swift6Scheduling/Swift5 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Examples/10-Swift6Scheduling/Swift5";
+			sourceTree = "<group>";
+		};
+		CE000000000000000000005D /* Examples/10-Swift6Scheduling/Swift6 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Examples/10-Swift6Scheduling/Swift6";
+			sourceTree = "<group>";
+		};
+		CE0000000000000000000066 /* Examples/11-NonisolatedNonsending/Legacy */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Examples/11-NonisolatedNonsending/Legacy";
+			sourceTree = "<group>";
+		};
+		CE000000000000000000006F /* Examples/11-NonisolatedNonsending/Modern */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Examples/11-NonisolatedNonsending/Modern";
+			sourceTree = "<group>";
+		};
+		CE0000000000000000000078 /* Examples/12-Sendable/Swift5 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Examples/12-Sendable/Swift5";
+			sourceTree = "<group>";
+		};
+		CE0000000000000000000081 /* Examples/12-Sendable/Swift6 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Examples/12-Sendable/Swift6";
+			sourceTree = "<group>";
+		};
+		CE000000000000000000008A /* Examples/13-ActorCapture-iOS */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Examples/13-ActorCapture-iOS";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		48613C2C2D375AAE0044E8E4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				48613C502D37619B0044E8E4 /* Atomics in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE0000000000000000000004 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE000000000000000000000D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE0000000000000000000016 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE000000000000000000001F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE0000000000000000000028 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE0000000000000000000031 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE000000000000000000003A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE0000000000000000000043 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE000000000000000000004C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE0000000000000000000055 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE000000000000000000005E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE0000000000000000000067 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE0000000000000000000070 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE0000000000000000000079 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE0000000000000000000082 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE000000000000000000008B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		48613C262D375AAE0044E8E4 = {
+			isa = PBXGroup;
+			children = (
+				CE00000000000000000003E7 /* Examples */,
+				48613C312D375AAE0044E8E4 /* OriginalSamples */,
+				48613C302D375AAE0044E8E4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		48613C302D375AAE0044E8E4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CE0000000000000000000002 /* 01_LegacyThreading */,
+				CE000000000000000000000B /* 02_TaskBasics */,
+				CE0000000000000000000014 /* 03_AsyncLet */,
+				CE000000000000000000001D /* 04_TaskGroups */,
+				CE0000000000000000000026 /* 05_Cancellation */,
+				CE000000000000000000002F /* 06_Actors */,
+				CE0000000000000000000038 /* 07_ActorReentrancy */,
+				CE0000000000000000000041 /* 08_GlobalActors */,
+				CE000000000000000000004A /* 09_TaskInheritance */,
+				CE0000000000000000000053 /* 10_TaskScheduling_Swift5 */,
+				CE000000000000000000005C /* 10_TaskScheduling_Swift6 */,
+				CE0000000000000000000065 /* 11_Nonisolated_Legacy */,
+				CE000000000000000000006E /* 11_Nonisolated_Modern */,
+				CE0000000000000000000077 /* 12_Sendable_Swift5 */,
+				CE0000000000000000000080 /* 12_Sendable_Swift6 */,
+				CE0000000000000000000089 /* 13_ActorCapture_iOS.app */,
+				48613C2F2D375AAE0044E8E4 /* 00_OriginalSamples */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CE00000000000000000003E7 /* Examples */ = {
+			isa = PBXGroup;
+			children = (
+				CE0000000000000000000003 /* Examples/01-LegacyThreading */,
+				CE000000000000000000000C /* Examples/02-TaskBasics */,
+				CE0000000000000000000015 /* Examples/03-AsyncLet */,
+				CE000000000000000000001E /* Examples/04-TaskGroups */,
+				CE0000000000000000000027 /* Examples/05-Cancellation */,
+				CE0000000000000000000030 /* Examples/06-Actors */,
+				CE0000000000000000000039 /* Examples/07-ActorReentrancy */,
+				CE0000000000000000000042 /* Examples/08-GlobalActors */,
+				CE000000000000000000004B /* Examples/09-TaskInheritance */,
+				CE0000000000000000000054 /* Examples/10-Swift6Scheduling/Swift5 */,
+				CE000000000000000000005D /* Examples/10-Swift6Scheduling/Swift6 */,
+				CE0000000000000000000066 /* Examples/11-NonisolatedNonsending/Legacy */,
+				CE000000000000000000006F /* Examples/11-NonisolatedNonsending/Modern */,
+				CE0000000000000000000078 /* Examples/12-Sendable/Swift5 */,
+				CE0000000000000000000081 /* Examples/12-Sendable/Swift6 */,
+				CE000000000000000000008A /* Examples/13-ActorCapture-iOS */,
+			);
+			name = Examples;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		48613C2E2D375AAE0044E8E4 /* 00_OriginalSamples */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 48613C362D375AAE0044E8E4 /* Build configuration list for PBXNativeTarget "00_OriginalSamples" */;
+			buildPhases = (
+				48613C2B2D375AAE0044E8E4 /* Sources */,
+				48613C2C2D375AAE0044E8E4 /* Frameworks */,
+				48613C2D2D375AAE0044E8E4 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				48613C312D375AAE0044E8E4 /* OriginalSamples */,
+			);
+			name = 00_OriginalSamples;
+			packageProductDependencies = (
+				48613C4F2D37619B0044E8E4 /* Atomics */,
+			);
+			productName = 00_OriginalSamples;
+			productReference = 48613C2F2D375AAE0044E8E4 /* 00_OriginalSamples */;
+			productType = "com.apple.product-type.tool";
+		};
+		CE0000000000000000000005 /* 01_LegacyThreading */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE0000000000000000000009 /* Build configuration list for PBXNativeTarget "01_LegacyThreading" */;
+			buildPhases = (
+				CE0000000000000000000006 /* Sources */,
+				CE0000000000000000000004 /* Frameworks */,
+				CE0000000000000000000001 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				CE0000000000000000000003 /* Examples/01-LegacyThreading */,
+			);
+			name = 01_LegacyThreading;
+			packageProductDependencies = (
+			);
+			productName = 01_LegacyThreading;
+			productReference = CE0000000000000000000002 /* 01_LegacyThreading */;
+			productType = "com.apple.product-type.tool";
+		};
+		CE000000000000000000000E /* 02_TaskBasics */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE0000000000000000000012 /* Build configuration list for PBXNativeTarget "02_TaskBasics" */;
+			buildPhases = (
+				CE000000000000000000000F /* Sources */,
+				CE000000000000000000000D /* Frameworks */,
+				CE000000000000000000000A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				CE000000000000000000000C /* Examples/02-TaskBasics */,
+			);
+			name = 02_TaskBasics;
+			packageProductDependencies = (
+			);
+			productName = 02_TaskBasics;
+			productReference = CE000000000000000000000B /* 02_TaskBasics */;
+			productType = "com.apple.product-type.tool";
+		};
+		CE0000000000000000000017 /* 03_AsyncLet */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE000000000000000000001B /* Build configuration list for PBXNativeTarget "03_AsyncLet" */;
+			buildPhases = (
+				CE0000000000000000000018 /* Sources */,
+				CE0000000000000000000016 /* Frameworks */,
+				CE0000000000000000000013 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				CE0000000000000000000015 /* Examples/03-AsyncLet */,
+			);
+			name = 03_AsyncLet;
+			packageProductDependencies = (
+			);
+			productName = 03_AsyncLet;
+			productReference = CE0000000000000000000014 /* 03_AsyncLet */;
+			productType = "com.apple.product-type.tool";
+		};
+		CE0000000000000000000020 /* 04_TaskGroups */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE0000000000000000000024 /* Build configuration list for PBXNativeTarget "04_TaskGroups" */;
+			buildPhases = (
+				CE0000000000000000000021 /* Sources */,
+				CE000000000000000000001F /* Frameworks */,
+				CE000000000000000000001C /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				CE000000000000000000001E /* Examples/04-TaskGroups */,
+			);
+			name = 04_TaskGroups;
+			packageProductDependencies = (
+			);
+			productName = 04_TaskGroups;
+			productReference = CE000000000000000000001D /* 04_TaskGroups */;
+			productType = "com.apple.product-type.tool";
+		};
+		CE0000000000000000000029 /* 05_Cancellation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE000000000000000000002D /* Build configuration list for PBXNativeTarget "05_Cancellation" */;
+			buildPhases = (
+				CE000000000000000000002A /* Sources */,
+				CE0000000000000000000028 /* Frameworks */,
+				CE0000000000000000000025 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				CE0000000000000000000027 /* Examples/05-Cancellation */,
+			);
+			name = 05_Cancellation;
+			packageProductDependencies = (
+			);
+			productName = 05_Cancellation;
+			productReference = CE0000000000000000000026 /* 05_Cancellation */;
+			productType = "com.apple.product-type.tool";
+		};
+		CE0000000000000000000032 /* 06_Actors */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE0000000000000000000036 /* Build configuration list for PBXNativeTarget "06_Actors" */;
+			buildPhases = (
+				CE0000000000000000000033 /* Sources */,
+				CE0000000000000000000031 /* Frameworks */,
+				CE000000000000000000002E /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				CE0000000000000000000030 /* Examples/06-Actors */,
+			);
+			name = 06_Actors;
+			packageProductDependencies = (
+			);
+			productName = 06_Actors;
+			productReference = CE000000000000000000002F /* 06_Actors */;
+			productType = "com.apple.product-type.tool";
+		};
+		CE000000000000000000003B /* 07_ActorReentrancy */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE000000000000000000003F /* Build configuration list for PBXNativeTarget "07_ActorReentrancy" */;
+			buildPhases = (
+				CE000000000000000000003C /* Sources */,
+				CE000000000000000000003A /* Frameworks */,
+				CE0000000000000000000037 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				CE0000000000000000000039 /* Examples/07-ActorReentrancy */,
+			);
+			name = 07_ActorReentrancy;
+			packageProductDependencies = (
+			);
+			productName = 07_ActorReentrancy;
+			productReference = CE0000000000000000000038 /* 07_ActorReentrancy */;
+			productType = "com.apple.product-type.tool";
+		};
+		CE0000000000000000000044 /* 08_GlobalActors */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE0000000000000000000048 /* Build configuration list for PBXNativeTarget "08_GlobalActors" */;
+			buildPhases = (
+				CE0000000000000000000045 /* Sources */,
+				CE0000000000000000000043 /* Frameworks */,
+				CE0000000000000000000040 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				CE0000000000000000000042 /* Examples/08-GlobalActors */,
+			);
+			name = 08_GlobalActors;
+			packageProductDependencies = (
+			);
+			productName = 08_GlobalActors;
+			productReference = CE0000000000000000000041 /* 08_GlobalActors */;
+			productType = "com.apple.product-type.tool";
+		};
+		CE000000000000000000004D /* 09_TaskInheritance */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE0000000000000000000051 /* Build configuration list for PBXNativeTarget "09_TaskInheritance" */;
+			buildPhases = (
+				CE000000000000000000004E /* Sources */,
+				CE000000000000000000004C /* Frameworks */,
+				CE0000000000000000000049 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				CE000000000000000000004B /* Examples/09-TaskInheritance */,
+			);
+			name = 09_TaskInheritance;
+			packageProductDependencies = (
+			);
+			productName = 09_TaskInheritance;
+			productReference = CE000000000000000000004A /* 09_TaskInheritance */;
+			productType = "com.apple.product-type.tool";
+		};
+		CE0000000000000000000056 /* 10_TaskScheduling_Swift5 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE000000000000000000005A /* Build configuration list for PBXNativeTarget "10_TaskScheduling_Swift5" */;
+			buildPhases = (
+				CE0000000000000000000057 /* Sources */,
+				CE0000000000000000000055 /* Frameworks */,
+				CE0000000000000000000052 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				CE0000000000000000000054 /* Examples/10-Swift6Scheduling/Swift5 */,
+			);
+			name = 10_TaskScheduling_Swift5;
+			packageProductDependencies = (
+			);
+			productName = 10_TaskScheduling_Swift5;
+			productReference = CE0000000000000000000053 /* 10_TaskScheduling_Swift5 */;
+			productType = "com.apple.product-type.tool";
+		};
+		CE000000000000000000005F /* 10_TaskScheduling_Swift6 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE0000000000000000000063 /* Build configuration list for PBXNativeTarget "10_TaskScheduling_Swift6" */;
+			buildPhases = (
+				CE0000000000000000000060 /* Sources */,
+				CE000000000000000000005E /* Frameworks */,
+				CE000000000000000000005B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				CE000000000000000000005D /* Examples/10-Swift6Scheduling/Swift6 */,
+			);
+			name = 10_TaskScheduling_Swift6;
+			packageProductDependencies = (
+			);
+			productName = 10_TaskScheduling_Swift6;
+			productReference = CE000000000000000000005C /* 10_TaskScheduling_Swift6 */;
+			productType = "com.apple.product-type.tool";
+		};
+		CE0000000000000000000068 /* 11_Nonisolated_Legacy */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE000000000000000000006C /* Build configuration list for PBXNativeTarget "11_Nonisolated_Legacy" */;
+			buildPhases = (
+				CE0000000000000000000069 /* Sources */,
+				CE0000000000000000000067 /* Frameworks */,
+				CE0000000000000000000064 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				CE0000000000000000000066 /* Examples/11-NonisolatedNonsending/Legacy */,
+			);
+			name = 11_Nonisolated_Legacy;
+			packageProductDependencies = (
+			);
+			productName = 11_Nonisolated_Legacy;
+			productReference = CE0000000000000000000065 /* 11_Nonisolated_Legacy */;
+			productType = "com.apple.product-type.tool";
+		};
+		CE0000000000000000000071 /* 11_Nonisolated_Modern */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE0000000000000000000075 /* Build configuration list for PBXNativeTarget "11_Nonisolated_Modern" */;
+			buildPhases = (
+				CE0000000000000000000072 /* Sources */,
+				CE0000000000000000000070 /* Frameworks */,
+				CE000000000000000000006D /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				CE000000000000000000006F /* Examples/11-NonisolatedNonsending/Modern */,
+			);
+			name = 11_Nonisolated_Modern;
+			packageProductDependencies = (
+			);
+			productName = 11_Nonisolated_Modern;
+			productReference = CE000000000000000000006E /* 11_Nonisolated_Modern */;
+			productType = "com.apple.product-type.tool";
+		};
+		CE000000000000000000007A /* 12_Sendable_Swift5 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE000000000000000000007E /* Build configuration list for PBXNativeTarget "12_Sendable_Swift5" */;
+			buildPhases = (
+				CE000000000000000000007B /* Sources */,
+				CE0000000000000000000079 /* Frameworks */,
+				CE0000000000000000000076 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				CE0000000000000000000078 /* Examples/12-Sendable/Swift5 */,
+			);
+			name = 12_Sendable_Swift5;
+			packageProductDependencies = (
+			);
+			productName = 12_Sendable_Swift5;
+			productReference = CE0000000000000000000077 /* 12_Sendable_Swift5 */;
+			productType = "com.apple.product-type.tool";
+		};
+		CE0000000000000000000083 /* 12_Sendable_Swift6 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE0000000000000000000087 /* Build configuration list for PBXNativeTarget "12_Sendable_Swift6" */;
+			buildPhases = (
+				CE0000000000000000000084 /* Sources */,
+				CE0000000000000000000082 /* Frameworks */,
+				CE000000000000000000007F /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				CE0000000000000000000081 /* Examples/12-Sendable/Swift6 */,
+			);
+			name = 12_Sendable_Swift6;
+			packageProductDependencies = (
+			);
+			productName = 12_Sendable_Swift6;
+			productReference = CE0000000000000000000080 /* 12_Sendable_Swift6 */;
+			productType = "com.apple.product-type.tool";
+		};
+		CE000000000000000000008C /* 13_ActorCapture_iOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE0000000000000000000090 /* Build configuration list for PBXNativeTarget "13_ActorCapture_iOS" */;
+			buildPhases = (
+				CE000000000000000000008D /* Sources */,
+				CE000000000000000000008B /* Frameworks */,
+				CE0000000000000000000091 /* Resources */,
+				CE0000000000000000000088 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				CE000000000000000000008A /* Examples/13-ActorCapture-iOS */,
+			);
+			name = 13_ActorCapture_iOS;
+			packageProductDependencies = (
+			);
+			productName = 13_ActorCapture_iOS;
+			productReference = CE0000000000000000000089 /* 13_ActorCapture_iOS.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		48613C272D375AAE0044E8E4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					48613C2E2D375AAE0044E8E4 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					CE0000000000000000000005 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					CE000000000000000000000E = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					CE0000000000000000000017 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					CE0000000000000000000020 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					CE0000000000000000000029 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					CE0000000000000000000032 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					CE000000000000000000003B = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					CE0000000000000000000044 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					CE000000000000000000004D = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					CE0000000000000000000056 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					CE000000000000000000005F = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					CE0000000000000000000068 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					CE0000000000000000000071 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					CE000000000000000000007A = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					CE0000000000000000000083 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					CE000000000000000000008C = {
+						CreatedOnToolsVersion = 16.0;
+					};
+				};
+			};
+			buildConfigurationList = 48613C2A2D375AAE0044E8E4 /* Build configuration list for PBXProject "ConcurrencyInSwift" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 48613C262D375AAE0044E8E4;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				48613C4E2D37619B0044E8E4 /* XCRemoteSwiftPackageReference "swift-atomics" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 48613C302D375AAE0044E8E4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CE0000000000000000000005 /* 01_LegacyThreading */,
+				CE000000000000000000000E /* 02_TaskBasics */,
+				CE0000000000000000000017 /* 03_AsyncLet */,
+				CE0000000000000000000020 /* 04_TaskGroups */,
+				CE0000000000000000000029 /* 05_Cancellation */,
+				CE0000000000000000000032 /* 06_Actors */,
+				CE000000000000000000003B /* 07_ActorReentrancy */,
+				CE0000000000000000000044 /* 08_GlobalActors */,
+				CE000000000000000000004D /* 09_TaskInheritance */,
+				CE0000000000000000000056 /* 10_TaskScheduling_Swift5 */,
+				CE000000000000000000005F /* 10_TaskScheduling_Swift6 */,
+				CE0000000000000000000068 /* 11_Nonisolated_Legacy */,
+				CE0000000000000000000071 /* 11_Nonisolated_Modern */,
+				CE000000000000000000007A /* 12_Sendable_Swift5 */,
+				CE0000000000000000000083 /* 12_Sendable_Swift6 */,
+				CE000000000000000000008C /* 13_ActorCapture_iOS */,
+				48613C2E2D375AAE0044E8E4 /* 00_OriginalSamples */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CE0000000000000000000091 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		48613C2B2D375AAE0044E8E4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE0000000000000000000006 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE000000000000000000000F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE0000000000000000000018 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE0000000000000000000021 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE000000000000000000002A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE0000000000000000000033 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE000000000000000000003C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE0000000000000000000045 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE000000000000000000004E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE0000000000000000000057 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE0000000000000000000060 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE0000000000000000000069 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE0000000000000000000072 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE000000000000000000007B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE0000000000000000000084 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE000000000000000000008D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		48613C342D375AAE0044E8E4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		48613C352D375AAE0044E8E4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		48613C372D375AAE0044E8E4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		48613C382D375AAE0044E8E4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		CE0000000000000000000007 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		CE0000000000000000000008 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		CE0000000000000000000010 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Debug;
+		};
+		CE0000000000000000000011 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Release;
+		};
+		CE0000000000000000000019 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Debug;
+		};
+		CE000000000000000000001A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Release;
+		};
+		CE0000000000000000000022 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Debug;
+		};
+		CE0000000000000000000023 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Release;
+		};
+		CE000000000000000000002B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Debug;
+		};
+		CE000000000000000000002C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Release;
+		};
+		CE0000000000000000000034 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Debug;
+		};
+		CE0000000000000000000035 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Release;
+		};
+		CE000000000000000000003D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Debug;
+		};
+		CE000000000000000000003E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Release;
+		};
+		CE0000000000000000000046 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Debug;
+		};
+		CE0000000000000000000047 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Release;
+		};
+		CE000000000000000000004F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Debug;
+		};
+		CE0000000000000000000050 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Release;
+		};
+		CE0000000000000000000058 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		CE0000000000000000000059 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		CE0000000000000000000061 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Debug;
+		};
+		CE0000000000000000000062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Release;
+		};
+		CE000000000000000000006A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		CE000000000000000000006B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		CE0000000000000000000073 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				OTHER_SWIFT_FLAGS = "$(inherited) -enable-upcoming-feature NonisolatedNonsendingByDefault";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_UPCOMING_FEATURE_NONISOLATEDNONSENDINGBYDEFAULT = YES;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Debug;
+		};
+		CE0000000000000000000074 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				OTHER_SWIFT_FLAGS = "$(inherited) -enable-upcoming-feature NonisolatedNonsendingByDefault";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_UPCOMING_FEATURE_NONISOLATEDNONSENDINGBYDEFAULT = YES;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Release;
+		};
+		CE000000000000000000007C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		CE000000000000000000007D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		CE0000000000000000000085 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Debug;
+		};
+		CE0000000000000000000086 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Release;
+		};
+		CE000000000000000000008E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "This lesson uses microphone input to demonstrate AVAudioEngine tap callbacks.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.ConcurrencyInSwift.ActorCapture;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		CE000000000000000000008F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "This lesson uses microphone input to demonstrate AVAudioEngine tap callbacks.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.ConcurrencyInSwift.ActorCapture;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		48613C2A2D375AAE0044E8E4 /* Build configuration list for PBXProject "ConcurrencyInSwift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				48613C342D375AAE0044E8E4 /* Debug */,
+				48613C352D375AAE0044E8E4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		48613C362D375AAE0044E8E4 /* Build configuration list for PBXNativeTarget "00_OriginalSamples" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				48613C372D375AAE0044E8E4 /* Debug */,
+				48613C382D375AAE0044E8E4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE0000000000000000000009 /* Build configuration list for PBXNativeTarget "01_LegacyThreading" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE0000000000000000000007 /* Debug */,
+				CE0000000000000000000008 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE0000000000000000000012 /* Build configuration list for PBXNativeTarget "02_TaskBasics" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE0000000000000000000010 /* Debug */,
+				CE0000000000000000000011 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE000000000000000000001B /* Build configuration list for PBXNativeTarget "03_AsyncLet" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE0000000000000000000019 /* Debug */,
+				CE000000000000000000001A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE0000000000000000000024 /* Build configuration list for PBXNativeTarget "04_TaskGroups" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE0000000000000000000022 /* Debug */,
+				CE0000000000000000000023 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE000000000000000000002D /* Build configuration list for PBXNativeTarget "05_Cancellation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE000000000000000000002B /* Debug */,
+				CE000000000000000000002C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE0000000000000000000036 /* Build configuration list for PBXNativeTarget "06_Actors" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE0000000000000000000034 /* Debug */,
+				CE0000000000000000000035 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE000000000000000000003F /* Build configuration list for PBXNativeTarget "07_ActorReentrancy" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE000000000000000000003D /* Debug */,
+				CE000000000000000000003E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE0000000000000000000048 /* Build configuration list for PBXNativeTarget "08_GlobalActors" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE0000000000000000000046 /* Debug */,
+				CE0000000000000000000047 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE0000000000000000000051 /* Build configuration list for PBXNativeTarget "09_TaskInheritance" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE000000000000000000004F /* Debug */,
+				CE0000000000000000000050 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE000000000000000000005A /* Build configuration list for PBXNativeTarget "10_TaskScheduling_Swift5" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE0000000000000000000058 /* Debug */,
+				CE0000000000000000000059 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE0000000000000000000063 /* Build configuration list for PBXNativeTarget "10_TaskScheduling_Swift6" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE0000000000000000000061 /* Debug */,
+				CE0000000000000000000062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE000000000000000000006C /* Build configuration list for PBXNativeTarget "11_Nonisolated_Legacy" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE000000000000000000006A /* Debug */,
+				CE000000000000000000006B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE0000000000000000000075 /* Build configuration list for PBXNativeTarget "11_Nonisolated_Modern" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE0000000000000000000073 /* Debug */,
+				CE0000000000000000000074 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE000000000000000000007E /* Build configuration list for PBXNativeTarget "12_Sendable_Swift5" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE000000000000000000007C /* Debug */,
+				CE000000000000000000007D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE0000000000000000000087 /* Build configuration list for PBXNativeTarget "12_Sendable_Swift6" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE0000000000000000000085 /* Debug */,
+				CE0000000000000000000086 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE0000000000000000000090 /* Build configuration list for PBXNativeTarget "13_ActorCapture_iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE000000000000000000008E /* Debug */,
+				CE000000000000000000008F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		48613C4E2D37619B0044E8E4 /* XCRemoteSwiftPackageReference "swift-atomics" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/apple/swift-atomics.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.2.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		48613C4F2D37619B0044E8E4 /* Atomics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 48613C4E2D37619B0044E8E4 /* XCRemoteSwiftPackageReference "swift-atomics" */;
+			productName = Atomics;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 48613C272D375AAE0044E8E4 /* Project object */;
+}
